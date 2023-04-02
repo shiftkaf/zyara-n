@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shiftkaf.github.io/zyara-n/sitemap.xml
